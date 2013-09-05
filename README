@@ -1,0 +1,8 @@
+ 
+To Execute   
+    1)  run simple_server.py
+    2)  browse to localhost:8888 (login page should be displayed)
+    3)  enter username and password in login page
+    4)  click submit button in login page 
+    5)  press Enter to stop server
+    
